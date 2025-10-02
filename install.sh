@@ -1,5 +1,4 @@
-#!bin/bash
-set -euo pipefail
+#!/bin/bash
 
 # --- SSH hygiene (avoid "unprotected private key" + host prompts)
 mkdir -p ~/.ssh
