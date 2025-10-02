@@ -15,4 +15,4 @@ ssh-keyscan github.com >> ~/.ssh/known_hosts 2>/dev/null || true
 # git config --global user.name "Reza"
 # git config --global user.email "you@example.com"
 
-echo "Dotfiles install complete ✅"
+echo "Dotfiles install complete ✅."
